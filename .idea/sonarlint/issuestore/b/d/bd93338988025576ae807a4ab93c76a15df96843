@@ -1,0 +1,9 @@
+
+w
+java:S1104"ZMake mTextViewLine1 a static final constant or non-public and provide accessors if needed.(¹¹­Ë8»Òö…Ì/
+|
+java:S1104"ZMake mTextViewLine2 a static final constant or non-public and provide accessors if needed.(ñŒ˜Õøÿÿÿÿ8»Òö…Ì/
+“
+java:S1319"vThe type of the "exampleList" object should be an interface such as "List" rather than the implementation "ArrayList".(èÃ„º8»Òö…Ì/
+w
+java:S1488""[Immediately return this expression instead of assigning it to the temporary variable "evh".(ÍÔég8»Òö…Ì/
